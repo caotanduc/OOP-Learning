@@ -1,0 +1,19 @@
+1
+2
+0
+10002
+cao tan duc
+nam
+7/6/2002
+ben tre
+199
+1
+10000
+nguyen thi a
+nu
+1/1/2000
+thu duc
+28
+8
+nhanvien.dat
+0

@@ -1,0 +1,42 @@
+Nhap so luong nhanvien: Nhap loai (0: NVSanXuat, 1: NVCongNhat): Nhap Ma So: Nhap Ho Ten: Nhap Gioi Tinh: Nhap ngay sinh (dd mm yyyy): Nhap dia chi: Nhap so ngay: Nhap loai (0: NVSanXuat, 1: NVCongNhat): Nhap Ma So: Nhap Ho Ten: Nhap Gioi Tinh: Nhap ngay sinh (dd mm yyyy): Nhap dia chi: Nhap so ngay: Thong Tinh nhanvien 0
+Ma so: 10002
+Ho ten: cao tan duc
+Phai: nam
+Ngay sinh: 7/6/2002
+Dia chi: ben tre
+So Ngay: 19
+
+Thong Tinh nhanvien 1
+Ma so: 10000
+Ho ten: cao thi duc
+Phai: nu
+Ngay sinh: 1/1/2000
+Dia chi: thu duc
+So Ngay: 28
+
+Nhap loai (0: NVSanXuat, 1: NVCongNhat): Nhap thong tin cua nhanvien
+Nhap Ma So: Nhap Ho Ten: Nhap Gioi Tinh: Nhap ngay sinh (dd mm yyyy): Nhap dia chi: Nhap so ngay: Them thanh cong nhanvien vao danh sach cua cong ty
+Thong Tinh nhanvien 0
+Ma so: 
+Ho ten: 10001
+Phai: cao 
+Ngay sinh: -842150451/-842150451/-842150451
+Dia chi: 
+So Ngay: 0
+
+Thong Tinh nhanvien 1
+Ma so: 10000
+Ho ten: cao thi duc
+Phai: nu
+Ngay sinh: 1/1/2000
+Dia chi: thu duc
+So Ngay: 28
+
+Thong Tinh nhanvien 2
+Ma so: 10002
+Ho ten: cao tan duc
+Phai: nam
+Ngay sinh: 7/6/2002
+Dia chi: ben tre
+So Ngay: 19
+

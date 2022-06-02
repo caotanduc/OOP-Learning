@@ -1,0 +1,22 @@
+2
+0
+10002
+cao tan duc
+nam
+7 6 2002
+ben tre
+19
+1
+10000
+cao thi duc
+nu
+1 1 2000
+thu duc
+28
+1
+10001
+cao duc tan
+nam
+1 1 2999
+ho chi minh
+29
